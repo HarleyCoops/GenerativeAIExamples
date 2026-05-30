@@ -22,7 +22,7 @@ pymupdf==1.23.15
 python-multipart==0.0.27
 python_pptx==0.6.23
 qdrant_client==1.9.0
-Requests==2.33.0
+Requests==2.34.2
 sentence-transformers==2.2.2
 streamlit==1.54.0
 streamlit_analytics==0.4.1
